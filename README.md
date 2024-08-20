@@ -1,7 +1,8 @@
 # bootslander
 This is the first website I developed with a prepared template for HTML named "bootslander" and Django framework.
 The purpose of the project was to challenge my abilities in Django.
-how to use:
+
+## how to use:
 1. clone:
 run this command:
 > git clone https://github.com/MaryMhb/bootslander.git
